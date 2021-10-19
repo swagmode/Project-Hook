@@ -65,4 +65,4 @@ spawn(function()
     end
 end)
 
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SpiritXmas/Project-Hook/main/main.lua"))()
