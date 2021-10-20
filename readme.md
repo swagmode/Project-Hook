@@ -14,6 +14,7 @@
 * [-] Infinite Air               -   infinite air underwater
 
 ### Combat
+* [-] Kill All - Can be used to autofarm if combined with automatic respawn
 * [-] Kill Aura - YOU DO NOT NEED TO SWING
 * [-] Auto Parry
 
