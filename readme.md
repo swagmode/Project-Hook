@@ -14,7 +14,7 @@
 * [-] Infinite Air               -   infinite air underwater
 
 ### Combat
-* [-] Kill Aura
+* [-] Kill Aura - YOU DO NOT NEED TO SWING
 * [-] Auto Parry
 
 ### Esp
