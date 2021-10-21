@@ -12,11 +12,17 @@
 * [-] Anti Ragdoll
 * [-] Jump Whenever              -   allows you to jump whilst crouching or downed
 * [-] Infinite Air               -   infinite air underwater
+* [-] Disable Bear Trap
+* [-] Disable fire damage
+* [-] Disable smoke
+* [-] Automatic airdrop claimer
 
 ### Combat
 * [-] Kill All - Can be used to autofarm if combined with automatic respawn
 * [-] Kill Aura - YOU DO NOT NEED TO SWING
 * [-] Auto Parry
+* [-] Instant Finisher
+* [-] Kill Player
 
 ### Esp
 * [-] Tracers
