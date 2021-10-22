@@ -8,7 +8,7 @@
 ### Misc
 * [-] Semi Instant Self Revive   -   has some inconsistency
 * [-] Automatic Respawn          -   automatically respawns you once you die
-* [-] Revive Aura                -   will revive anyone who's downed near you
+* [-] Revive Aura                -   will revive anyone who's downed near you | temporarily removed
 * [-] Anti Ragdoll
 * [-] Jump Whenever              -   allows you to jump whilst crouching or downed
 * [-] Infinite Air               -   infinite air underwater
@@ -28,5 +28,9 @@
 * [-] Tracers
 * [-] Boxes
 * [-] Nametags
+
+### Advanced (join discord for explanation #features)
+* [-] Fly
+* [-] Infinite Jump
 
 [Game Link](https://www.roblox.com/games/4282985734/redir)
