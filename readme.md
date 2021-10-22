@@ -33,4 +33,5 @@
 * [-] Fly
 * [-] Infinite Jump
 
+[Discord](https://discord.gg/A6N3nJeEsR)
 [Game Link](https://www.roblox.com/games/4282985734/redir)
