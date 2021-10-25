@@ -65,8 +65,5 @@ spawn(function()
     end
 end)
 
-if KRNL_LOADED then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/SpiritXmas/Project-Hook/main/old/v103.lua"))()
-else
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/SpiritXmas/Project-Hook/main/main.lua"))()
-end
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SpiritXmas/Project-Hook/main/main.lua"))()
+
