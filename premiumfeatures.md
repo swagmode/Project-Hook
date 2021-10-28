@@ -43,6 +43,8 @@
 * [-] Faster Stamina Regeneration
 * [-] Stamina Regeneration Multiplier
 * [-] Lower Stamina Gain Delay
+* [-] Take Less Fall Damage
+* [-] Less Fall Damage Percentage
 * [-] Slower Air Depletion
 * [-] Faster Air Regeneration
 * [-] Lower Jump Cooldown
