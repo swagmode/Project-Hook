@@ -38,6 +38,11 @@
 * [-] Boxes
 * [-] Nametags
 
+### Universal
+* [-] Leave If Staff Join
+* [-] Advertise Script
+* [-] Server Hop
+
 ## Legit
 ### Misc
 * [-] Faster Stamina Regeneration
