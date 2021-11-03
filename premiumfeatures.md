@@ -30,6 +30,11 @@
 * [-] Anti Parry
 * [-] Auto Parry
 * [-] Auto Parry Whitelist
+* [-] Instant Charge
+* [-] No Spread
+* [-] No Camera Recoil
+* [-] Always Can Shoot
+* [-] Always Can Reload
 * [-] Instant Finisher
 * [-] Stomp Aura
 
@@ -42,6 +47,7 @@
 * [-] Leave If Staff Join
 * [-] Advertise Script
 * [-] Server Hop
+* [-] Rejoin Same Server
 
 ## Legit
 ### Misc
