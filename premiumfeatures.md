@@ -5,6 +5,7 @@
 * [-] Walk Speed
 * [-] Jump Power
 * [-] No Jump Cooldown
+* [-] No Dash Cooldown
 * [-] No Fall Damage
 * [-] Infinite Stamina
 * [-] Infinite Jump
