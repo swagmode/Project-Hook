@@ -2,7 +2,7 @@
 
 ## Rage
 ### Character
-* [-] Walk Speed
+* [-] Walk Speed  
 * [-] Jump Power
 * [-] No Jump Cooldown
 * [-] No Dash Cooldown
@@ -10,32 +10,33 @@
 * [-] Infinite Stamina
 * [-] Infinite Jump
 * [-] Infinite Air
-* [-] Fly
 
 ### Misc
 * [-] Anti Ragdoll
 * [-] Anti Knockback
 * [-] Automatic Respawn
 * [-] Automatic Airdrop Claimer
+* [-] Disable Bear Trap
+* [-] Disable Fire Damage
+* [-] Disable Smoke
 * [-] Instant Self Revive
 * [-] Instant Equip Weapon
-* [-] Disable Bear Trap
-* [-] Disable fire damage
-* [-] Disable smoke
+* [-] Unlock All Emotes
+* [-] Remove Major Body Parts
 * [-] Jump Whenever
 * [-] Longer pickup range
 
 ### Combat
 * [-] Kill Aura
 * [-] Kill Aura Whitelist
+* [-] Kill Downed Players
 * [-] Anti Parry
 * [-] Auto Parry
 * [-] Auto Parry Whitelist
 * [-] Instant Charge
+* [-] Instant Travel
 * [-] No Spread
-* [-] No Camera Recoil
-* [-] Always Can Shoot
-* [-] Always Can Reload
+* [-] No Recoil
 * [-] Instant Finisher
 * [-] Stomp Aura
 
@@ -45,6 +46,7 @@
 * [-] Nametags
 
 ### Universal
+* [-] Change Menu Toggle Key
 * [-] Leave If Staff Join
 * [-] Advertise Script
 * [-] Server Hop
@@ -70,6 +72,13 @@
 * [-] Tracers
 * [-] Boxes
 * [-] Nametags
+
+### Universal
+* [-] Change Menu Toggle Key
+* [-] Leave If Staff Join
+* [-] Advertise Script
+* [-] Server Hop
+* [-] Rejoin Same Server
 
 [Discord](https://discord.gg/A6N3nJeEsR)
 [Game Link](https://www.roblox.com/games/4282985734/redir)
