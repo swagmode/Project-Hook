@@ -21,6 +21,8 @@
 * [-] Disable Smoke
 * [-] Instant Self Revive
 * [-] Instant Equip Weapon
+* [-] Instant Ghost Potion
+* [-] Instant Bear Trap
 * [-] Unlock All Emotes
 * [-] Remove Major Body Parts
 * [-] Jump Whenever
