@@ -29,8 +29,11 @@
 * [-] Longer pickup range
 
 ### Combat
+* [-] Kill All
 * [-] Silent Aim
+* [-] Silent Aim Whitelist
 * [-] Wall Bang
+* [-] Tp Kill Aura
 * [-] Kill Aura
 * [-] Kill Aura Whitelist
 * [-] Kill Downed Players
