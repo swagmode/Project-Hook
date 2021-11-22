@@ -29,9 +29,8 @@
 * [-] Longer pickup range
 
 ### Combat
-* [-] Kill All
-* [-] Silent Aim
-* [-] Silent Aim Whitelist
+* [-] Easy Aim
+* [-] Easy Aim Whitelist
 * [-] Wall Bang
 * [-] Tp Kill Aura
 * [-] Kill Aura
@@ -45,7 +44,6 @@
 * [-] No Spread
 * [-] No Recoil
 * [-] Instant Finisher
-* [-] Stomp Aura
 
 ### Esp
 * [-] Tracers
