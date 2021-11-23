@@ -43,7 +43,6 @@
 * [-] Instant Travel
 * [-] No Spread
 * [-] No Recoil
-* [-] Instant Finisher
 
 ### Esp
 * [-] Tracers
